@@ -159,7 +159,7 @@ div.container {
 				<input placeholder="Password" type="password"></input>
 			</div>
 			<div class="login-button-wrap">
-				<button style="cursor: pointer;">Sign in</button>
+				<a href="6_mypage.jsp"><button style="cursor: pointer;">Sign in</button></a>
 			</div>
 			
 		</section>
@@ -175,7 +175,7 @@ div.container {
 					<div class="login-stay-sign-in">
 			</div>
 			</ul>
-			<p class="forget-msg"> <a href="">회원가입</a> | <a href="">아이디 찾기</a> | <a href="">비밀번호 찾기</a> </p>
+			<p class="forget-msg"> <a href="3_join.jsp">회원가입</a> | <a href="">아이디 찾기</a> | <a href="">비밀번호 찾기</a> </p>
 		</section>
 
 

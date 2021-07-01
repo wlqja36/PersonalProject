@@ -67,7 +67,7 @@ div.info {
 		<div style="align-items: center;">
 			<h1>회원가입</h1>
 		</div>
-		<form>
+		<form action="3_joinOk.jsp">
 			<div class="login-stay-sign-in"></div>
 			<div class="info">
 				<span class="info">아이디</span><input class="info" type="text"

@@ -159,7 +159,7 @@ div.container {
 				<input placeholder="Password" type="password"></input>
 			</div>
 			<div class="login-button-wrap">
-				<button style="cursor: pointer;">Sign in</button>
+				<a href="7_adminpage.jsp"><button style="cursor: pointer;">Sign in</button></a>
 			</div>
 			
 		</section>

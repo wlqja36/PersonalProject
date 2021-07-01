@@ -148,14 +148,14 @@ a.category:visited {
 				<div class="header">
 					<div class="container_head">
 						<div>
-							<a href="/"> <img class="logo" alt="" src="../image/logo.png">
+							<a href="1_main.jsp"> <img class="logo" alt="" src="../image/logo.png">
 							</a>
 						</div>
 
 						<div class="row">
 							
 								<ul class="myMenu">
-									<li class="menu"><a class="category" href=""> 디지털/가전</a>
+									<li class="menu"><a class="category" href="1_main.jsp"> 디지털/가전</a>
 										<!--  <ul class="sub">
 											<li><a class="category" href="">장르</a> <a
 												class="category" href="">공포</a> <a class="category" href="">공포</a></li>
@@ -201,7 +201,7 @@ a.category:visited {
 
 						</div>
 						<div>
-							<input type="button" value="로그인/회원가입">
+							<a href="2_login.jsp"><input type="button" value="로그인/회원가입"></a>
 						</div>
 					</div>
 

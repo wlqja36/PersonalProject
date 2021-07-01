@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<script src="https://kit.fontawesome.com/8cc7f9d44b.js" crossorigin="anonymous"></script>
 <style type="text/css">
 
 body {
@@ -58,9 +59,11 @@ a.footer:visited {
 			<div class="footer-overay">
 
 				<div class="footer_first">
-					<b>여긴 푸터에요</b> 번호, 주소
+					<h1><i class="fas fa-balance-scale" style="font-size: 80px;"></i></h1>
+					<h4>문의 : 010-2320-4438</h4>
+					<h4>주소 : 서울 동작구 동작대로</h4>
 				</div>
-				<div class="footer_first">
+				<!-- <div class="footer_first">
 					<ul class="footer">
 						<li class="footer"><br>
 						<b><a href="" class="footer">푸터 컨텐츠 1</a></b></li>
@@ -71,8 +74,8 @@ a.footer:visited {
 						<li><a class="footer" href="">푸터소메뉴</a></li>
 						</ul>
 						
-				</div>
-				<div class="footer_second">
+				</div> -->
+				<!-- <div class="footer_second">
 					<ul class="footer">
 						<li class="footer"><br>
 						<b><a class="footer" href="">푸터 컨텐츠 2</a></b></li>
@@ -104,7 +107,7 @@ a.footer:visited {
 						<li><a class="footer" href="">푸터소메뉴</a></li>
 						<li><a class="footer" href="">푸터소메뉴</a></li>
 						</ul>
-				</div>
+				</div> -->
 
 			</div>
 		</footer>

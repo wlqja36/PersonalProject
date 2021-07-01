@@ -362,10 +362,14 @@ a:visited {
 			</ul>
 		</div>
 	</div>
-
+	<div class="container" style="margin-bottom: 20px;">
+	<div>
+		<h2>카테고리</h2>
+	</div>
+	</div>
 	<!--            검색바           -->
 	<div class="container" style="margin-bottom: 20px;">
-		
+	
 			<div style="margin-left: 10px;">
 				<select style="width: 200px; padding: 5px;" name="category">
 					<option value="serach_All">전체</option>
@@ -379,7 +383,7 @@ a:visited {
 				<button style="background-color: #1b5ac2; padding: 4px; color: white;">검색</button>
 			</div>
 			<div>
-				<button style="background-color: #1b5ac2; padding: 4px; color: white; margin-right: 10px;">경매등록</button>
+				<a href="4_add_Product.jsp"><button style="background-color: #1b5ac2; padding: 4px; color: white; margin-right: 10px;">경매등록</button></a>
 			</div>
 		
 	</div>

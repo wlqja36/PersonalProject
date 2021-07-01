@@ -71,7 +71,7 @@ div.info {
 		<div style="align-items: center;">
 			<h1>제품등록</h1>
 		</div>
-		<form>
+		<form action="5_product_info.jsp">
 			<div class="login-stay-sign-in"></div>
 			<div class="info">
 				<span class="info">제품명</span>
