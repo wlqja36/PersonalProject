@@ -69,8 +69,8 @@ div.row {
 }
 
 img.logo {
-	width: 200px;
-	height: 50px;
+	width: 130px;
+	height: 65px;
 }
 /* 헤더 끝 */
 /* 메뉴바 */
@@ -80,6 +80,7 @@ ul, li {
 	list-style: none;
 	margin: auto;
 	padding: 0px;
+	margin-top: 0px;
 }
 
 ul.footer, li.footer {
@@ -148,7 +149,7 @@ a.category:visited {
 				<div class="header">
 					<div class="container_head">
 						<div>
-							<a href="1_main.jsp"> <img class="logo" alt="" src="../image/logo.png">
+							<a href="1_main.jsp"> <img class="logo" alt="" src="../img/logo.png" style="margin-top: 8px;">
 							</a>
 						</div>
 

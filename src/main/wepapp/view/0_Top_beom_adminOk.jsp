@@ -207,8 +207,8 @@ a.category:visited {
 								<i class="fas fa-user-circle" style="font-size: 50px;"></i>
 							</div>
 							<div>
-								<p style="margin-bottom: 10px; line-height: 1.6;"><a href="6_mypage.jsp" style="color: white; ">유저닉네임</a><br>
-								<a href="6_mypage.jsp" style="color: white; ">5,000 points</a></p>
+								<p style="margin-bottom: 10px; line-height: 1.6;"><a href="7_adminpage.jsp" style="color: white; ">유저닉네임</a><br>
+								<a href="7_adminpage.jsp" style="color: white; ">5,000 points</a></p>
 								
 							</div>
 						</div>

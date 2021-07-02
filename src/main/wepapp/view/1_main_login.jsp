@@ -312,7 +312,7 @@ a:visited {
 </head>
 <body>
 	<div>
-		<%@ include file="0_Top_beom.jsp"%>
+		<%@ include file="0_Top_beom_loginOk.jsp"%>
 	</div>
 	<div class="section">
 		<input type="radio" name="slide" id="slide01" checked> <input

@@ -68,7 +68,7 @@ tr.info:nth-child(odd){
 </head>
 <body>
 	<div>
-		<%@ include file="0_Top_beom.jsp"%>
+		<%@ include file="0_Top_beom_loginOk.jsp"%>
 	</div>
 	<div class="container" style="margin-top: 100px;">
 	<div style="margin-top: 50px;"> <!-- 큰틀 -->
